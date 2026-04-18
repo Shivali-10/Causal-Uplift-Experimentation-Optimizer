@@ -65,6 +65,5 @@ A "Midnight Sapphire" glassmorphism UI for business stakeholders.
 - **Shivali** ([@Shivali-10](https://github.com/Shivali-10))
 - **Vaishali** ([@Vaishali-1234](https://github.com/Vaishali-1234))
 
----
-*Built for Technical Portfolios and Production Environments.*
+
 
